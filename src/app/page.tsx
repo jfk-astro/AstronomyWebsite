@@ -54,7 +54,7 @@ export default function Home() {
               </p>
               
               <p className="text-lg leading-relaxed font-light opacity-90">
-                Whether you're an absolute beginner or an experienced astronomer, join the Astronomy club! Our community offers access to immersive experiences with great academic value.
+                Whether you&apos;re an absolute beginner or an experienced astronomer, join the Astronomy club! Our community offers access to immersive experiences with great academic value.
               </p>
             </div>
 
